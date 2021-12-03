@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Checkout+my+Projects!+:D)](https://git.io/typing-svg)
 
 <!--
 **brandonlaursen/brandonlaursen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 👯  I’m looking to collaborate on a browser game.
 - 💬  Ask me about my current full stack applications.
 - ⚡  Fun fact: I enjoy powerlifting, cryptos, and anything fantasy.
+
+
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-laursen-398563218/)
