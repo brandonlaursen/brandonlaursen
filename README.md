@@ -43,14 +43,14 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonlaursen&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/brandonlaursen/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonlaursen&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/brandonlaursen/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonlaursen&layout=compact)](https://github.com/brandonlaursen/github-readme-stats)
-
-<!-- <a href="https://github.com/brandonlaursen/github-readme-stats">
+ -->
+<a href="https://github.com/brandonlaursen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonlaursen&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/brandonlaursen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonlaursen&layout=compact" />
 </a>
- -->
+
