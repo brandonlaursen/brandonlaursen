@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on browser game.
 - 💬 Ask me about my current full stack applications.
 - 📫 How to reach me: linkedIn, brandonlaursen.com, AngelList
-- ⚡ Fun fact: I enjoy powerlifting, cryptos, and anything fantasy.
+- ⚡ Fun fact: I enjoy powerlifting, cryptos, and anything fantasy!
 -->
 
 - 🔭  I’m currently working on adding features to SpaceNote.
