@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy powerlifting, cryptos, and anything fantasy!
 -->
 
-- 🔭  I’m currently working on adding features to SpaceNote.
+- 🔭  I’m currently working on adding features to quickr.
 - 🌱  I’m currently studying data structures and algorithms.
 - 👯  I’m looking to collaborate on a browser game.
 - 💬  Ask me about my current full stack applications!
