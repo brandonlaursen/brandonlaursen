@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-🎓 Lead Instructor at App Academy, helping students break into tech.
-🚀 I’m currently building Finertia, a cutting-edge finance app.
-🌱 Deepening my knowledge of data structures and algorithms.
-🤝 Open to collaborating on exciting projects—reach out!
-⚡ Fun fact: I love powerlifting, exploring crypto, and geeking out over all things fantasy.
+- 🎓 Lead Instructor at App Academy, helping students break into tech.
+- 🚀 I’m currently building Finertia, a cutting-edge finance app.
+- 🌱 Deepening my knowledge of data structures and algorithms.
+- 🤝 Open to collaborating on exciting projects—reach out!
+- ⚡ Fun fact: I love powerlifting, exploring crypto, and geeking out over all things fantasy.
 
 
 ## Contact Me
