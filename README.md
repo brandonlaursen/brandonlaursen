@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy powerlifting, cryptos, and anything fantasy!!
 -->
 
-- 🔭  I’m currently working on adding features to quickr.
-- 🌱  I’m currently studying data structures and algorithms.
-- 👯  I’m looking to collaborate on a browser game.
-- 💬  Ask me about my current full stack applications!
-- ⚡  Fun fact: I enjoy powerlifting, cryptos, and anything fantasy.
 
+🎓 Lead Instructor at App Academy, helping students break into tech.
+🚀 I’m currently building Finertia, a cutting-edge finance app.
+🌱 Deepening my knowledge of data structures and algorithms.
+🤝 Open to collaborating on exciting projects—reach out!
+⚡ Fun fact: I love powerlifting, exploring crypto, and geeking out over all things fantasy.
 
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-laursen-398563218/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/brandon-laursen)
 
 ## Technologies Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
